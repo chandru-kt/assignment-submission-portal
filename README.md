@@ -1,8 +1,7 @@
 # Assignment-submission-portal
-## To run
--- npm install
-##
--- node app.js
+# To run
+## npm install
+## node app.js
 
 # Output
 
