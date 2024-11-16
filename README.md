@@ -32,3 +32,8 @@
 ## post/ http://localhost:5000/api/assignments/6738622403e8730a5bce178a/reject
 
 ![image](https://github.com/user-attachments/assets/a386375f-640b-4d7b-9978-fc87d4c92851)
+
+## Database
+
+![image](https://github.com/user-attachments/assets/6754bf8b-c7e5-45cb-a895-c92d5f2c27a9)
+
